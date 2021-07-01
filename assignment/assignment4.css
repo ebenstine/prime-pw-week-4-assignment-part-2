@@ -1,0 +1,18 @@
+header, h1{
+background-color: rgb(11, 11, 48);
+color: orange;
+text-align: center;
+}
+#info, h2, h3, h4{
+color:rgb(11, 11, 48);
+background-color: rgb(118, 187, 214);
+text-align: center;
+}
+div{
+border: 2px solid orange;
+background-color: rgb(11, 11, 48);
+}
+
+#center {
+text-align: center;
+}
